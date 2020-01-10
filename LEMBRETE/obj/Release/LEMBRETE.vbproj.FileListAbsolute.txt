@@ -1,0 +1,28 @@
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.lembrete.resources
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Release\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.lembrete.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Release\LEMBRETE.pdb

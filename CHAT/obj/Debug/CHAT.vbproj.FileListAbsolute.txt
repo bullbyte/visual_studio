@@ -1,0 +1,60 @@
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.xml
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.chat.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.xml
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\GlassButtonVB.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.chat.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CHAT\obj\Debug\CHAT.alerta.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\CHAT.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.alerta.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.chat.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CHAT\obj\Debug\CHAT.pdb
+D:\DIPACK\CHAT\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\CHAT\obj\Debug\CHAT.alerta.resources
+D:\DIPACK\CHAT\obj\Debug\CHAT.chat.resources
+D:\DIPACK\CHAT\obj\Debug\CHAT.Resources.resources
+D:\DIPACK\CHAT\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\CHAT\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\CHAT\obj\Debug\CHAT.dll
+D:\DIPACK\CHAT\obj\Debug\CHAT.xml
+D:\DIPACK\CHAT\obj\Debug\CHAT.pdb
+D:\DIPACK\CHAT\bin\Debug\CHAT.dll
+D:\DIPACK\CHAT\bin\Debug\CHAT.pdb
+D:\DIPACK\CHAT\bin\Debug\CHAT.xml
+D:\DIPACK\CHAT\bin\Debug\DADOS.dll
+D:\DIPACK\CHAT\bin\Debug\DADOS.pdb
+D:\DIPACK\CHAT\bin\Debug\DADOS.xml

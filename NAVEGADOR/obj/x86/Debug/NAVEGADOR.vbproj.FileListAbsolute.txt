@@ -1,0 +1,77 @@
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb
+D:\DIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.exe
+D:\DIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.pdb
+D:\DIPACK\NAVEGADOR\bin\Debug\NAVEGADOR.xml
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.Resources.resources
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.navegador.resources
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.exe
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.xml
+D:\DIPACK\NAVEGADOR\obj\x86\Debug\NAVEGADOR.pdb

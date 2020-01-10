@@ -1,0 +1,60 @@
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\DADOS\obj\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\DADOS\obj\Debug\DADOS.pdb
+D:\DIPACK\DADOS\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\DADOS\obj\Debug\DADOS.Resources.resources
+D:\DIPACK\DADOS\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\DADOS\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\DADOS\obj\Debug\DADOS.dll
+D:\DIPACK\DADOS\obj\Debug\DADOS.xml
+D:\DIPACK\DADOS\obj\Debug\DADOS.pdb
+D:\DIPACK\DADOS\bin\Debug\DADOS.dll
+D:\DIPACK\DADOS\bin\Debug\DADOS.pdb
+D:\DIPACK\DADOS\bin\Debug\DADOS.xml

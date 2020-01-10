@@ -1,0 +1,90 @@
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+D:\DIPACK\COLABORADORES\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.colaboradores.resources
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.editar.resources
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.Resources.resources
+D:\DIPACK\COLABORADORES\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\COLABORADORES\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.dll
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.xml
+D:\DIPACK\COLABORADORES\obj\Debug\COLABORADORES.pdb
+D:\DIPACK\COLABORADORES\bin\Debug\COLABORADORES.dll
+D:\DIPACK\COLABORADORES\bin\Debug\COLABORADORES.pdb
+D:\DIPACK\COLABORADORES\bin\Debug\COLABORADORES.xml
+D:\DIPACK\COLABORADORES\bin\Debug\DADOS.dll
+D:\DIPACK\COLABORADORES\bin\Debug\DADOS.pdb
+D:\DIPACK\COLABORADORES\bin\Debug\DADOS.xml

@@ -1,0 +1,241 @@
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WMDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\USUARIOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.upLoad.resources
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\obj\Debug\iFRAME.upLoad.resources
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\IconComboBox.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\IconComboBox.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\GlassButtonVB.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\GlassButtonVB.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\IconComboBox.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.xml
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.dll
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\iFRAME\bin\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\iFRAME.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CHAT.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\GlassButtonVB.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CHAT.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CHAT.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\USUARIOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\bin\Debug\IconComboBox.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.upLoad.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\iFRAME\obj\Debug\iFRAME.pdb
+D:\DIPACK\iFRAME\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.frame.resources
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.iFRAME.resources
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.Resources.resources
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.upLoad.resources
+D:\DIPACK\iFRAME\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\iFRAME\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.dll
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.xml
+D:\DIPACK\iFRAME\obj\Debug\iFRAME.pdb
+D:\DIPACK\iFRAME\bin\Debug\iFRAME.dll
+D:\DIPACK\iFRAME\bin\Debug\iFRAME.pdb
+D:\DIPACK\iFRAME\bin\Debug\iFRAME.xml
+D:\DIPACK\iFRAME\bin\Debug\CHAT.dll
+D:\DIPACK\iFRAME\bin\Debug\COLABORADORES.dll
+D:\DIPACK\iFRAME\bin\Debug\CONFIG.dll
+D:\DIPACK\iFRAME\bin\Debug\DADOS.dll
+D:\DIPACK\iFRAME\bin\Debug\LEMBRETE.dll
+D:\DIPACK\iFRAME\bin\Debug\REDE.dll
+D:\DIPACK\iFRAME\bin\Debug\USUARIOS.dll
+D:\DIPACK\iFRAME\bin\Debug\GlassButtonVB.dll
+D:\DIPACK\iFRAME\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\DIPACK\iFRAME\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\DIPACK\iFRAME\bin\Debug\CHAT.pdb
+D:\DIPACK\iFRAME\bin\Debug\CHAT.xml
+D:\DIPACK\iFRAME\bin\Debug\COLABORADORES.pdb
+D:\DIPACK\iFRAME\bin\Debug\COLABORADORES.xml
+D:\DIPACK\iFRAME\bin\Debug\CONFIG.pdb
+D:\DIPACK\iFRAME\bin\Debug\CONFIG.xml
+D:\DIPACK\iFRAME\bin\Debug\DADOS.pdb
+D:\DIPACK\iFRAME\bin\Debug\DADOS.xml
+D:\DIPACK\iFRAME\bin\Debug\LEMBRETE.pdb
+D:\DIPACK\iFRAME\bin\Debug\LEMBRETE.xml
+D:\DIPACK\iFRAME\bin\Debug\REDE.pdb
+D:\DIPACK\iFRAME\bin\Debug\REDE.xml
+D:\DIPACK\iFRAME\bin\Debug\USUARIOS.pdb
+D:\DIPACK\iFRAME\bin\Debug\USUARIOS.xml
+D:\DIPACK\iFRAME\bin\Debug\IconComboBox.xml

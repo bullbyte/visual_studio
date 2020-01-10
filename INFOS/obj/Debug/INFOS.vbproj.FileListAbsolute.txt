@@ -1,0 +1,11 @@
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\bin\Debug\INFOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\bin\Debug\INFOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\bin\Debug\INFOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\INFOS.balao.resources
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\INFOS.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\INFOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\INFOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\INFOS\obj\Debug\INFOS.pdb

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{5F5A11FE-DA5A-44FC-AB9E-C762B07E082C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>iFRAME</RootNamespace>
+    <AssemblyName>iFRAME</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>iFRAME.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>iFRAME.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="IconComboBox">
+      <HintPath>..\..\..\Documents\vb\Rapid_Chat\Rapid Chat\Rapid Chat\bin\Debug\IconComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.4.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frame.Designer.vb">
+      <DependentUpon>frame.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iFRAME.Designer.vb">
+      <DependentUpon>iFRAME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="iFRAME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="upLoad.Designer.vb">
+      <DependentUpon>upLoad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="upLoad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frame.resx">
+      <DependentUpon>frame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iFRAME.resx">
+      <DependentUpon>iFRAME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="upLoad.resx">
+      <DependentUpon>upLoad.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barra_menu_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfigSistemaInfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COLABOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docNaRede.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CHAT\CHAT.vbproj">
+      <Project>{14BF6322-CFA8-4250-B8D6-55781E87A8C4}</Project>
+      <Name>CHAT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\COLABORADORES\COLABORADORES.vbproj">
+      <Project>{89D8D19E-1260-4D9A-8FC2-4C1B7FA78EA8}</Project>
+      <Name>COLABORADORES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONFIG\CONFIG.vbproj">
+      <Project>{39F02ECE-F2EC-448E-869E-CA4CFDF419A8}</Project>
+      <Name>CONFIG</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DADOS\DADOS.vbproj">
+      <Project>{86A57C62-CC18-4E71-9597-9C1256F27B5A}</Project>
+      <Name>DADOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LEMBRETE\LEMBRETE.vbproj">
+      <Project>{E72201E1-8E38-41A3-8688-2AAF72704FE7}</Project>
+      <Name>LEMBRETE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\REDE\REDE.vbproj">
+      <Project>{11C22D58-B745-4C6A-92D1-33BEE5518994}</Project>
+      <Name>REDE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\USUARIOS\USUARIOS.vbproj">
+      <Project>{CDC3EF35-6FE7-4114-8959-98AB821A8422}</Project>
+      <Name>USUARIOS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REDE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LEMBRETE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISO 9001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO DIPACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoLembrete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.vbproj.ResolveComReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.editar.resources
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.usuarios.resources
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\USUARIOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.editar.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.usuarios.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\USUARIOS\obj\Release\USUARIOS.pdb

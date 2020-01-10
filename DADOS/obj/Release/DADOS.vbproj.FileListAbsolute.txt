@@ -1,0 +1,20 @@
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\bin\Release\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\DADOS\obj\Release\DADOS.pdb

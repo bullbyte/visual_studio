@@ -1,0 +1,64 @@
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.cliente.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.editar.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\CONFIG.xml
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.cliente.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.editar.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.dll
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.xml
+C:\Users\pallo\Desktop\WWWDIPACK\CONFIG\obj\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.cliente.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.editar.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.setor.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\CONFIG\obj\Debug\CONFIG.salario.resources
+D:\DIPACK\CONFIG\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.cliente.resources
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.editar.resources
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.Resources.resources
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.salario.resources
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.setor.resources
+D:\DIPACK\CONFIG\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\CONFIG\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.dll
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.xml
+D:\DIPACK\CONFIG\obj\Debug\CONFIG.pdb
+D:\DIPACK\CONFIG\bin\Debug\CONFIG.dll
+D:\DIPACK\CONFIG\bin\Debug\CONFIG.pdb
+D:\DIPACK\CONFIG\bin\Debug\CONFIG.xml
+D:\DIPACK\CONFIG\bin\Debug\DADOS.dll
+D:\DIPACK\CONFIG\bin\Debug\DADOS.pdb
+D:\DIPACK\CONFIG\bin\Debug\DADOS.xml

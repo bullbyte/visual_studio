@@ -1,0 +1,11 @@
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Release\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Release\NAVEGADOR.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\bin\Release\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\NAVEGADOR.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\NAVEGADOR.navegador.resources
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\NAVEGADOR.exe
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\NAVEGADOR.xml
+C:\Users\pallo\Desktop\WMWDIPACK\NAVEGADOR\obj\x86\Release\NAVEGADOR.pdb

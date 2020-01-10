@@ -1,0 +1,88 @@
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.adicionar.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.adicionar.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.adicionar.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+D:\DIPACK\LEMBRETE\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.adicionar.resources
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.lembrete.resources
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.Resources.resources
+D:\DIPACK\LEMBRETE\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\LEMBRETE\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.dll
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.xml
+D:\DIPACK\LEMBRETE\obj\Debug\LEMBRETE.pdb
+D:\DIPACK\LEMBRETE\bin\Debug\LEMBRETE.dll
+D:\DIPACK\LEMBRETE\bin\Debug\LEMBRETE.pdb
+D:\DIPACK\LEMBRETE\bin\Debug\LEMBRETE.xml
+D:\DIPACK\LEMBRETE\bin\Debug\DADOS.dll
+D:\DIPACK\LEMBRETE\bin\Debug\DADOS.pdb
+D:\DIPACK\LEMBRETE\bin\Debug\DADOS.xml

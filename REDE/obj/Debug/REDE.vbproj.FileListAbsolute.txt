@@ -1,0 +1,103 @@
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WMDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMDIPACK\REDE\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMDIPACK\REDE\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.dll
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.xml
+C:\Users\pallo\Desktop\WMWDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WMWDIPACK\REDE\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.dll
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.pdb
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.xml
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.dll
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.xml
+C:\Users\pallo\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\WWWDIPACK\REDE\obj\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\REDE.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\DADOS.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\DADOS.pdb
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\bin\Debug\DADOS.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\REDE.docRede.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\REDE.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\REDE.dll
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\REDE.xml
+C:\Documents and Settings\Administrador\Desktop\Joao\WWWDIPACK\REDE\obj\Debug\REDE.pdb
+D:\DIPACK\REDE\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPACK\REDE\obj\Debug\REDE.docRede.resources
+D:\DIPACK\REDE\obj\Debug\REDE.Resources.resources
+D:\DIPACK\REDE\obj\Debug\GenerateResource.read.1.tlog
+D:\DIPACK\REDE\obj\Debug\GenerateResource.write.1.tlog
+D:\DIPACK\REDE\obj\Debug\REDE.dll
+D:\DIPACK\REDE\obj\Debug\REDE.xml
+D:\DIPACK\REDE\obj\Debug\REDE.pdb
+D:\DIPACK\REDE\bin\Debug\REDE.dll
+D:\DIPACK\REDE\bin\Debug\REDE.pdb
+D:\DIPACK\REDE\bin\Debug\REDE.xml
+D:\DIPACK\REDE\bin\Debug\DADOS.dll
+D:\DIPACK\REDE\bin\Debug\DADOS.pdb
+D:\DIPACK\REDE\bin\Debug\DADOS.xml
